@@ -102,24 +102,3 @@ cd frontend
 npm install
 npm start
 Access the Application
-
-Frontend: http://localhost:3000
-
-Backend API: http://localhost:5000
-
-📁 Project Structure
-text
-fintrack/
-├── backend/
-│   ├── controllers/     # Route controllers
-│   ├── models/          # MongoDB models
-│   ├── routes/          # API routes
-│   ├── middleware/      # Custom middleware
-│   └── utils/           # Helper functions
-├── frontend/
-│   ├── src/
-│   │   ├── components/  # React components
-│   │   ├── pages/       # Page components
-│   │   ├── store/       # Redux store
-│   │   └── services/    # API services
-└── documentation/       # Project docs
