@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 FinTrack is a comprehensive MERN stack web application designed to help users efficiently manage their personal finances. With an intuitive dashboard, powerful analytics, and robust budgeting tools, FinTrack makes financial tracking simple, secure, and accessible from any device.
 
 💰 Stop wondering where your money goes - start tracking it with FinTrack!
@@ -85,7 +86,7 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/fintrack.git
+git clone https://github.com/khadijanaeem/FinTrack.git
 cd fintrack
 Setup Backend
 
